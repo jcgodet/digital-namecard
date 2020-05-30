@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Godet;Jean-Christophe;;;
 FN: Jean-Christophe  Godet 
-ORG:Heka;
-TITLE:CEO\nChairmen
-EMAIL;type=INTERNET;type=WORK;type=pref:jcgodet@gmail.com
+ORG:Faurecia;
+TITLE:Plant Manager\nFIS Uitenhage
+EMAIL;type=INTERNET;type=WORK;type=pref:jean-christophe.godet@faurecia.com
 TEL;type=WORK;type=VOICE:+27 6 097 22366
-item1.ADR;type=WORK;type=pref:;;42a Cuyler Street\nPort Elizabeth\, 6001;;;;South Africa
+item1.ADR;type=WORK;type=pref:;;Nelson Mandela Bay Logistic Park\nUitenhage\, 6229;;;;South Africa
 item1.X-ABADR:sg
-item2.URL;type=pref:heka.com
+item2.URL;type=pref:faurecia.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
